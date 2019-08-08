@@ -23,12 +23,7 @@ This project has been done for the **Copy Layout Challenge** as a part of **Goog
 
 ###### Screenshot 5
 
-###### ![screenshot_20180415-221517](https://user-images.githubusercontent.com/19844292/38781281-f420881a-40ff-11e8-9173-1f41945a14bd.png)
-
-###### Screenshot 6
-
 ###### ![screenshot_20180415-221531](https://user-images.githubusercontent.com/19844292/38781282-f44b921c-40ff-11e8-8392-23bdf9161703.png)
-
 
 
 ###### Thanks to Visit
